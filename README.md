@@ -1,4 +1,4 @@
-# Machine Learning 2021 NYCU
+# Machine Learning 2021 Fall - NYCU
 - HW1 - Regularized linear model regression using LSE and newton's method
 - HW2 - Naive bayes classifier and online learning
 - HW3 - Random data generator, sequential estimator and baysian linear regression
